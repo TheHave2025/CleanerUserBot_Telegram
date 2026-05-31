@@ -1,2 +1,21 @@
-# CleanerUserBot_Telegram
-Userbot desarrollado con Pyrogram para Telegram que permite limpiar automáticamente el historial de mensajes de un grupo mediante el comando .clean. El sistema elimina mensajes en bloques para optimizar el rendimiento, muestra el progreso en tiempo real y restringe el uso únicamente al propietario autorizado del bot. 🧹🤖
+# Telegram Group Cleaner
+
+Userbot desarrollado con Pyrogram que permite eliminar rápidamente todos los mensajes de un grupo utilizando el comando `.clean`.
+
+## Características
+
+- Limpieza automática del historial del grupo.
+- Eliminación masiva en bloques de 100 mensajes.
+- Indicador de progreso en tiempo real.
+- Acceso restringido al propietario del bot.
+- Basado en Pyrogram.
+
+## Comando
+
+```text
+.clean
+
+## Autor
+
+- Telegram: @TheHave1
+- GitHub: @TheHave2025
