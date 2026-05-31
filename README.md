@@ -12,10 +12,9 @@ Userbot desarrollado con Pyrogram que permite eliminar rápidamente todos los me
 
 ## Comando
 
-```text
 .clean
 
 ## Autor
 
 - Telegram: @TheHave1
-- GitHub: @TheHave2025
+- GitHub: TheHave2025
